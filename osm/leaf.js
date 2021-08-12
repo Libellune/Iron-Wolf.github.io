@@ -12,7 +12,7 @@ L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-icon.png
 var myIcon = L.icon({
   iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-icon.png',
-  iconSize: [24, 29],
+  iconSize: [24, 31],
   iconAnchor: [9, 21],
   popupAnchor: [0, -14],
 })
