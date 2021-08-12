@@ -1,7 +1,7 @@
+// create a new map, assigns it to the ‘map’ div and sets some options
 var map = L.map('map', {
-  center: [20.0, 5.0],
-  minZoom: 2,
-  zoom: 2,
+  center: [48.1101, -1.6607],
+  zoom: 13,
 })
 
 L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
