@@ -71,4 +71,10 @@ var markers = [
     lat: 48.1087099,
     lng: -1.6784183,
   },
+  {
+    name: 'Cooking Pot 🍔',
+    url: 'https://www.cookingpot.fr',
+    lat: 48.1303270,
+    lng: -1.6338838,
+  },
 ]
