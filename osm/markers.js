@@ -19,19 +19,19 @@ var markers = [
   },
   {
     name: 'Le Fuji 🍜',
-    url: 'https://lesbrocanteursrennes.com/lacarte/',
+    url: '',
     lat: 48.1113398, 
     lng: -1.6765000,
   },
   {
     name: 'Ouzh-Taol 🥞',
-    url: 'https://www.creperie-rennes.fr/',
+    url: '',
     lat: 48.1149012,
     lng: -1.6763218,
   },
   {
     name: 'L\'Épi de Blé 🥞',
-    url: 'https://www.creperie-rennes.fr/',
+    url: 'https://www.creperie-lepideble.fr/',
     lat: 48.1092346,
     lng: -1.6794212,
   },
@@ -67,7 +67,7 @@ var markers = [
   },
   {
     name: 'Le Fournil Vasselot 🍪',
-    url: 'https://www.kersoazig.fr',
+    url: '',
     lat: 48.1087099,
     lng: -1.6784183,
   },
