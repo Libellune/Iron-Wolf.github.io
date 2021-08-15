@@ -62,8 +62,8 @@ var markers = [
   {
     name: 'Ker Soazig 🥞',
     url: 'https://www.kersoazig.fr',
-    lat: 48.1138143,
-    lng: -1.6809343,
+    lat: 48.1057219,
+    lng: -1.6752561,
   },
   {
     name: 'Le Fournil Vasselot 🍪',
